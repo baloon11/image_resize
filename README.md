@@ -7,7 +7,7 @@ This script creates copies of images from `input` directory with new sizes.
 #####Usage
 
 Step 1. Put your images in the `input` directory  
-Step 3. Set your sizes in 'sizes' file  
+Step 2. Set your sizes in 'sizes' file  
 (separated by commas as in the example)  
 Step 3. Run in console   
 		python resize.py 
