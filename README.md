@@ -15,3 +15,21 @@ Step 3. Run in console
 The script will create new directory `out` with subdirectories.  
 In this subdirectories will be new images with new sizes.  
 
+---------------------------
+
+#####How to install Pillow on mac
+http://pillow.readthedocs.io/en/3.2.x/installation.html#os-x-installation
+
+or 
+Follow these steps  
+
+    xcode-select --install  
+    su  
+    export CFLAGS=-Qunused-arguments  
+    export CPPFLAGS=-Qunused-arguments  
+    pip install pillow  
+
+http://stackoverflow.com/questions/21867277/installing-pillow-with-mac-os-x-mavericks-10-9-1
+
+
+
